@@ -1,7 +1,7 @@
 Election
 ========
-In this study, we aim tried to understand how one social network is being used in the context of an election in Iran 
-and how information flows in thea community of social media users who were involved in the discussion of Iran. 
+<p>In this study, we aim tried to understand how one social network is being used in the context of an election in Iran 
+and how information flows in thea community of social media users who were involved in the discussion of Iran. </p>
 
 The focus of this study is on data collected from Twitter as a popular social media outletnetwork  among Iranians 
 for sharing news and updates. Twitter has been the subject of many studies after the 2009 election in Iran as some 
