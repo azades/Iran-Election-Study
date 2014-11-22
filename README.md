@@ -1,4 +1,4 @@
-Iran Election Study
+Iran 2013 Presidential Election Study
 -------------------
 In this study, we aim tried to understand how one social network is being used in the context of an election in Iran 
 and how information flows in thea community of social media users who were involved in the discussion of Iran.
