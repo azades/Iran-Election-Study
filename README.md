@@ -17,3 +17,4 @@ during the 2013 election. We have looked at the language distribution of tweets 
 To understand the changes in the number of tweets for each day, we attempted to find the correlations between tweets
 rate change and events in the election season.
 
+© Azade Sanjari 2014 All Rights reserved.
